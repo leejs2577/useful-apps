@@ -1,0 +1,20 @@
+
+export const KOREAN_DESTINATIONS: string[] = [
+  "서울 (Seoul)",
+  "부산 (Busan)",
+  "제주도 (Jeju Island)",
+  "인천 (Incheon)",
+  "대구 (Daegu)",
+  "광주 (Gwangju)",
+  "대전 (Daejeon)",
+  "울산 (Ulsan)",
+  "세종 (Sejong)",
+  "경기도 (Gyeonggi-do)",
+  "강원도 (Gangwon-do)",
+  "충청북도 (Chungcheongbuk-do)",
+  "충청남도 (Chungcheongnam-do)",
+  "전라북도 (Jeollabuk-do)",
+  "전라남도 (Jeollanam-do)",
+  "경상북도 (Gyeongsangbuk-do)",
+  "경상남도 (Gyeongsangnam-do)",
+];
